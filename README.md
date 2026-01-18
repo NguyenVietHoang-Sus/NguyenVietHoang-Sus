@@ -1,6 +1,8 @@
 # 💫 About Me:
-MrBeast, I subscribed to your channel, please give me some money
+Nothing here ....
 
+# Best Albums 
+<img src="[đường_dẫn_tới_ảnh.jpg](https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/7/6/3/f/763f0f2bc6e158c30e54a1f8c51c6af1.jpg)" width="300">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hoangsus206) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HoagsUs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoangsus206@gmail.com) 
