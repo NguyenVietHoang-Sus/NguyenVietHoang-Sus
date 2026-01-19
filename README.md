@@ -10,6 +10,7 @@ Nothing here ....
 # 🎧 Spotify or YT Music ...
 <img src="https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/7/6/3/f/763f0f2bc6e158c30e54a1f8c51c6af1.jpg" width="200"> <img src="https://i1.sndcdn.com/artworks-PGBfOfF1uKaBgS6o-b9rDIA-t1080x1080.jpg" width="200"> 
 <img src="https://kenh14cdn.com/203336854389633024/2024/2/27/4286295549671828914307716571424009725047858n-17090418136991839694724.jpeg" width="200"> <img src="https://product.hstatic.net/1000304920/product/rihanna_-_talk_that_talk_-_dia_cd_7897684b781b48ecb6b93457880e0fac_master.jpg" width="200">
+![Trình-HTH](https://i.ytimg.com/vi/7kO_ALcwNAw/sddefault.jpg?v=672b7503)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NguyenVietHoang-Sus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
